@@ -1,0 +1,22 @@
+{
+  "name": "DBJTypeConverter",
+  "version": "0.1.0",
+  "summary": "A short description of DBJTypeConverter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dbarbos/DBJTypeConverter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dbarbos": "dilermando.barbosa@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dbarbos/DBJTypeConverter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DBJTypeConverter/Classes/**/*"
+}

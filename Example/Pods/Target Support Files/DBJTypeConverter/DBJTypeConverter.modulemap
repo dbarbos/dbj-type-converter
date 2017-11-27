@@ -1,0 +1,6 @@
+framework module DBJTypeConverter {
+  umbrella header "DBJTypeConverter-umbrella.h"
+
+  export *
+  module * { export * }
+}
